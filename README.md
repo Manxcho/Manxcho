@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Manxcho
-- 🌱 I’m currently learning Python and JavaScript.
+- Hi, I’m @Manxcho
+- I’m currently learning Python and JavaScript.
 
 
 <!---
